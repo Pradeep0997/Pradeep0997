@@ -11,12 +11,12 @@
 </div>
 
 ### 👨🏻‍💻 About Me
-- [cite_start]🎓 I am a Computer Science & Engineering student at **RGUKT** with a **9.2 CGPA**[cite: 234, 271].
-- [cite_start]💼 Currently working as a **Scala Developer Intern** at **YuppTV**[cite: 246].
-- [cite_start]🏆 Qualified **GATE 2026** with **AIR 7514**[cite: 234, 274].
-- [cite_start]💡 Passionate about algorithms with **500+ problems solved** on LeetCode[cite: 236, 275].
-- [cite_start]🚀 I specialize in building robust microservices and secure APIs using **Java, Spring Boot, and PostgreSQL**[cite: 234, 235].
-- [cite_start]📫 Reach me at: **pradeepreddysettipalle@gmail.com** [cite: 231]
+- 🎓 I am a Computer Science & Engineering student at **RGUKT** with a **9.2 CGPA**.
+- 💼 Currently working as a **Scala Developer Intern** at **YuppTV**.
+- 🏆 Qualified **GATE 2026** with **AIR 7514**.
+- 💡 Passionate about algorithms with **500+ problems solved** on LeetCode.
+- 🚀 I specialize in building robust microservices and secure APIs using **Java, Spring Boot, and PostgreSQL**.
+- 📫 Reach me at: **pradeepreddysettipalle@gmail.com**
 
 ---
 
@@ -47,12 +47,12 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradeep0997&show_icons=true&theme=tokyonight" alt="Pradeep's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pradeep0997&show_icons=true&theme=tokyonight" alt="Pradeep's GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=Pradeep0997&theme=tokyonight" alt="Pradeep's Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep0997&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pradeep0997&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -66,7 +66,7 @@
 
 ### 🔗 Let's Connect
 <div align="center">
-  <a href="https://linkedin.com/in/pradeep-reddy-settipalle"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://linkedin.com/in/pradeep-reddy-settipalle](https://leetcode.com/u/pradeepreddysettipalle/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:pradeepreddysettipalle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="http://portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
+  <a href="[http://portfolio-link.com](https://pradeep0997.github.io/pradeep-portfolio-website/)"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
 </div>
